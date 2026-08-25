@@ -8,7 +8,7 @@ Proyek ini menyediakan visualisasi real-time data presipitasi di seluruh Indones
 
 Lihat peta panas curah hujan Indonesia terkini:
 
-[![Indonesia Rain Heatmap](https://img.shields.io/badge/heatmap-live-brightgreen)](https://htmlpreview.github.io/?https://github.com/DimasAdiNugroho-dryTundra/indonesia-rain-tracker/blob/main/index.html)
+[![Indonesia Rain Heatmap](https://img.shields.io/badge/heatmap-live-brightgreen)](https://dimasadinugroho-drytundra.github.io/indonesia-rain-tracker/)
 
 *Catatan: Peta diperbarui secara otomatis setiap 3-4 godzin melalui GitHub Actions.*
 
