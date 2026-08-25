@@ -4,6 +4,14 @@
 
 Proyek ini menyediakan visualisasi real-time data presipitasi di seluruh Indonesia menggunakan Open-Meteo API dan library pemetaan Folium. Sistem ini secara otomatis mengumpulkan data cuaca untuk kota-kota di Indonesia dan membuat peta heatmap interaktif dengan kontrol lapisan untuk membedakan daerah hujan dan tidak hujan.
 
+## Visualisasi Heatmap Interaktif
+
+Lihat peta panas curah hujan Indonesia terkini:
+
+[![Indonesia Rain Heatmap](https://img.shields.io/badge/heatmap-live-brightgreen)](https://htmlpreview.github.io/?https://github.com/DimasAdiNugroho-dryTundra/indonesia-rain-tracker/blob/main/index.html)
+
+*Catatan: Peta diperbarui secara otomatis setiap 3-4 godzin melalui GitHub Actions.*
+
 ## Arsitektur Teknis
 
 ```
