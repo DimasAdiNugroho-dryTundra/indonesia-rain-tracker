@@ -2,8 +2,8 @@ name: Update Rain Heatmap
 
 on:
   schedule:
-    # Berjalan otomatis setiap hari pukul 00:00 UTC
-    - cron: '0 0 * * *'
+    # Berjalan otomatis setiap 2 jam
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Tombol manual untuk tes langsung di web GitHub
 
 jobs:
